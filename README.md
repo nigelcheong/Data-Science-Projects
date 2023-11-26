@@ -1,2 +1,2 @@
 # Data-Science-Projects
-A collection of my data science projects.
+A collection of group data science projects from my studies at the University of Canberra.
